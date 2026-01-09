@@ -1,0 +1,7 @@
+{
+  "name": "AI Call Audit - Insurance Compliance System",
+  "description": "An automated AI-powered system for auditing insurance sales calls to identify compliance risks, mis-selling, and regulatory violations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
